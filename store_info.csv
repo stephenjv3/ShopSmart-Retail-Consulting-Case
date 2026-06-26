@@ -1,0 +1,31 @@
+store_id,region,manager,store_size,store_type,opening_year
+S01,East,Manager_A,Medium,Street,2020
+S02,South,Manager_B,Medium,Street,2017
+S03,North,Manager_C,Large,Street,2020
+Store-04, E ,Manager_D,Large,Street,2009
+S05,East,Manager_E,Small,Mall,2022
+S06,East,Manager_F,Medium,Mall,2020
+S07,North,Manager_G,Large,Street,2014
+S08,South ,Manager_H,Medium,Outlet,2021
+S09,East,Manager_I,Medium,Mall,2018
+10,SOUTH,Manager_J,Medium,Street,2023
+S11,South,Manager_K,Medium,Outlet,2019
+S12,South,Manager_L,Large,Street,2012
+S13,East,Manager_M,Medium,Street,2011
+S14, W ,Manager_N,Large,Street,2017
+S15,EAST,Manager_O,Large,Outlet,2010
+S16,South,Manager_P,Large,Mall,2008
+S17,North,Manager_Q,Small,Mall,2023
+S18, W ,Manager_R,Medium,Outlet,2023
+19,South ,Manager_S,Large,Mall,2017
+S20,South,Manager_T,Large,Mall,2010
+S21,North,Manager_U,Medium,Mall,2014
+S22,South,Manager_V,Large,Mall,2014
+S23,South,Manager_W,Small,Outlet,2022
+S24,West,Manager_X,Medium,Street,2013
+S25,WEST,Manager_Y,Large,Outlet,2010
+S26,West,Manager_Z,Medium,Outlet,2010
+S27,West,Manager_[,Large,Outlet,2014
+S28,West,Manager_\,Small,Outlet,2012
+S29,West,Manager_],Large,Outlet,2018
+S30,West,Manager_^,Medium,Outlet,2019
